@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Naouar\\source\\repos\\Piece\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AAC36EDA-F7F8-4255-835B-8D885497D083}|Piece\\Piece.csproj|c:\\users\\naouar\\source\\repos\\piece\\piece\\models\\entities\\pieces.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAC36EDA-F7F8-4255-835B-8D885497D083}|Piece\\Piece.csproj|solutionrelative:piece\\models\\entities\\pieces.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAC36EDA-F7F8-4255-835B-8D885497D083}|Piece\\Piece.csproj|c:\\users\\naouar\\source\\repos\\piece\\piece\\controllers\\piecescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAC36EDA-F7F8-4255-835B-8D885497D083}|Piece\\Piece.csproj|solutionrelative:piece\\controllers\\piecescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAC36EDA-F7F8-4255-835B-8D885497D083}|Piece\\Piece.csproj|c:\\users\\naouar\\source\\repos\\piece\\piece\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAC36EDA-F7F8-4255-835B-8D885497D083}|Piece\\Piece.csproj|solutionrelative:piece\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAC36EDA-F7F8-4255-835B-8D885497D083}|Piece\\Piece.csproj|c:\\users\\naouar\\source\\repos\\piece\\piece\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAC36EDA-F7F8-4255-835B-8D885497D083}|Piece\\Piece.csproj|solutionrelative:piece\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAC36EDA-F7F8-4255-835B-8D885497D083}|Piece\\Piece.csproj|c:\\users\\naouar\\source\\repos\\piece\\piece\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAC36EDA-F7F8-4255-835B-8D885497D083}|Piece\\Piece.csproj|solutionrelative:piece\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAC36EDA-F7F8-4255-835B-8D885497D083}|Piece\\Piece.csproj|c:\\users\\naouar\\source\\repos\\piece\\piece\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AAC36EDA-F7F8-4255-835B-8D885497D083}|Piece\\Piece.csproj|solutionrelative:piece\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Pieces.cs",
+              "DocumentMoniker": "C:\\Users\\Naouar\\source\\repos\\Piece\\Piece\\Models\\Entities\\Pieces.cs",
+              "RelativeDocumentMoniker": "Piece\\Models\\Entities\\Pieces.cs",
+              "ToolTip": "C:\\Users\\Naouar\\source\\repos\\Piece\\Piece\\Models\\Entities\\Pieces.cs",
+              "RelativeToolTip": "Piece\\Models\\Entities\\Pieces.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T11:17:32.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\Naouar\\source\\repos\\Piece\\Piece\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Piece\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\Naouar\\source\\repos\\Piece\\Piece\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Piece\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T11:15:33.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Naouar\\source\\repos\\Piece\\Piece\\appsettings.json",
+              "RelativeDocumentMoniker": "Piece\\appsettings.json",
+              "ToolTip": "C:\\Users\\Naouar\\source\\repos\\Piece\\Piece\\appsettings.json",
+              "RelativeToolTip": "Piece\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-12T10:59:47.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PiecesController.cs",
+              "DocumentMoniker": "C:\\Users\\Naouar\\source\\repos\\Piece\\Piece\\Controllers\\PiecesController.cs",
+              "RelativeDocumentMoniker": "Piece\\Controllers\\PiecesController.cs",
+              "ToolTip": "C:\\Users\\Naouar\\source\\repos\\Piece\\Piece\\Controllers\\PiecesController.cs",
+              "RelativeToolTip": "Piece\\Controllers\\PiecesController.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAwAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T10:57:02.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Naouar\\source\\repos\\Piece\\Piece\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Piece\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Naouar\\source\\repos\\Piece\\Piece\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Piece\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T10:52:55.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Naouar\\source\\repos\\Piece\\Piece\\Program.cs",
+              "RelativeDocumentMoniker": "Piece\\Program.cs",
+              "ToolTip": "C:\\Users\\Naouar\\source\\repos\\Piece\\Piece\\Program.cs",
+              "RelativeToolTip": "Piece\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T10:50:19.806Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
